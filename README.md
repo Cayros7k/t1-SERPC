@@ -57,5 +57,6 @@ accuracy_score(y, y_preds)
 - Fiz previsões com o modelo final.
 - Calculei a precisão das previsões comparando os rótulos reais com os previstos.
 
+> Henrique de Oliveira Silveira | Sistemas de Informação | 7° Período | Noturno
 
 
